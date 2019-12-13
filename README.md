@@ -1,0 +1,1 @@
+## SPA built with Laravel 6 and Vue.js
